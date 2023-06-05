@@ -10,6 +10,8 @@ programa
 		prod = num1 * num2
 		escreva("PROD = ", prod, "\n")
 		escreva("O resultado de ", num1, " X ", num2, " = ", prod, "\n")
+
+		escreva("Testando")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -17,7 +19,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 268; 
+ * @POSICAO-CURSOR = 286; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
